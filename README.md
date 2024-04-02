@@ -7,7 +7,7 @@
 <li> 핵심 역할 : 그룹 메인, 고객센터 , 발표 </li>
 <li> 개발 언어 : </li>
 <li> 개발 툴 :  </li>
-<a>프로젝트 상세보기</a>
+<a href="https://github.com/mkway999/Woori-man.git">프로젝트 상세보기</a>
 
 # 2. 탕후루 자판기 🍡
 탕후루 자판기
